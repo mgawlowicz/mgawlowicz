@@ -31,4 +31,4 @@ I am a developer focused on building efficient and visually clean software. Curr
 While I focus on the technical side, I’m passionate about clean, functional interfaces.  
 You can see some of my visual work and UI concepts here:
 
-**[Check out my shots on Dribbble 🏀]https://dribbble.com/mgawlowicz**
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174844.png" width="20" height="20" /> **Check my UI designs on Dribbble**](https://dribbble.com/mgawlowicz)
