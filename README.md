@@ -1,35 +1,47 @@
 # Hi there, I'm Mateusz 👋
 
-I am a developer focused on building efficient and visually clean software. Currently, I'm shifting my focus from modern Web development towards **Systems Programming** and **Cross-platform Desktop Applications**.
+I’m a developer who enjoys building things that are not only efficient, but also clean and pleasant to use. My main focus is on **UI/UX design** and **modern web development**, with occasional exploration into other areas when a project calls for it.
 
 ---
 
-### 🦀 Current Focus & Learning
-* **Deep diving into Rust:** Exploring ownership, borrowing, and concurrency.
-* **Desktop Apps:** Building lightweight apps using **Tauri** and **React**.
-* **Performance:** Learning how to optimize applications beyond the browser.
+### 🎯 Current Focus
+
+* **UI/UX Design:** Creating interfaces that feel intuitive, minimal, and smooth.
+* **Web Development:** Building modern apps using React and Next.js.
+* **Exploration:** From time to time diving into things like Rust or desktop apps—mostly out of curiosity and to expand my skillset.
+
+---
 
 ### 🛠 Tech Stack
-* **Languages:** Rust, TypeScript, JavaScript (ES6+), HTML/CSS.
-* **Frameworks/Libraries:** React, Next.js, Tauri.
-* **Past Experience:** WordPress & PrestaShop ecosystem (E-commerce maintenance).
+
+* **Languages:** TypeScript, JavaScript (ES6+), HTML, CSS, Rust (learning)
+* **Frameworks & Tools:** React, Next.js, Tauri
+* **Past Experience:** WordPress & PrestaShop (mainly e-commerce and maintenance work)
+
+---
 
 ### 🚀 Featured Project: Project X
-**A Next-Gen File Explorer & Management System**
 
-* **Core:** Built with **Rust** for memory safety and blazing-fast file system operations.
-* **Interface:** **Tauri** + **React** for a lightweight, desktop-native experience with a high-end, developer-centric UI.
-* **Vision:** Focusing on unified data management and intuitive, keyboard-driven navigation.
-* **Status:** Active Development (Pre Alpha) – tackling complex challenges in virtual file systems and real-time indexing.
+**Next-Gen File Explorer & Management System**
 
-### 🚀 Other Project
-* **Jet Charter Platform** – responsive landing page concept for private aviation built with **Next.js**.
-* **Cienema Desk** – cinema management app built with **React Native**.
+* **Core:** Powered by Rust for fast and reliable file operations
+* **Interface:** Built with Tauri + React for a lightweight desktop experience
+* **Focus:** Clean UI, smooth interactions, and keyboard-driven workflow
+* **Status:** Active development (pre-alpha)
+
+---
+
+### 🚀 Other Projects
+
+* **Jet Charter Platform** – a modern landing page concept for private aviation (Next.js)
+* **Cinema Desk** – a cinema management app (React Native)
 
 ---
 
 ### 🎨 Design & UI/UX
-While I focus on the technical side, I’m passionate about clean, functional interfaces.  
-You can see some of my visual work and UI concepts here:
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174844.png" width="20" height="20" /> **Check my UI designs on Dribbble**](https://dribbble.com/mgawlowicz)
+I care a lot about how things look and feel. Clean layouts, good spacing, and subtle interactions make a huge difference.
+
+You can check out some of my UI work here:
+
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174844.png" width="20" height="20" /> **View my designs on Dribbble**](https://dribbble.com/mgawlowicz)
