@@ -24,6 +24,7 @@ I am a developer focused on building efficient and visually clean software. Curr
 
 ### 🚀 Other Project
 * **Jet Charter Platform** – responsive landing page concept for private aviation built with **Next.js**.
+* **Cienema Desk** – cinema management app built with **React Native**.
 
 ---
 
