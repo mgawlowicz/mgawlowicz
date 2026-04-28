@@ -20,7 +20,7 @@ I’m a developer who enjoys building things that are not only efficient, but al
 
 ---
 
-### 🚀 Featured Project: Project X
+### 🚀 Featured Project: Nephrite
 
 **Next-Gen File Explorer & Management System**
 
